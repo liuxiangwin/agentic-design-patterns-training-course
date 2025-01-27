@@ -9,7 +9,7 @@ Welcome to the AI Agentic Design Patterns project! This repository contains vari
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/ai-agentic-design-patterns.git
+git clone https://github.com/pdichone/agentic-design-patterns.git
 cd ai-agentic-design-patterns
 ```
 
